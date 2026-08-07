@@ -66,7 +66,4 @@ git clone https://github.com/Dana-rami/Library-Management-System.git
 
 4. Run `Main.java`.
 
-## Authors
 
-- Dana Zaben
-- Andreh Khoury
