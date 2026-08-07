@@ -1,12 +1,12 @@
-# Library Management System
+# 📚 Library Management System
 
 A Java-based Library Management System developed as part of the Software Engineering course at An-Najah National University.
 
 ## Overview
 
-This project simulates a complete library management system following modern Software Engineering principles and Object-Oriented Design.
+This project implements a complete Library Management System following Object-Oriented Programming principles and modern Software Engineering practices.
 
-The system supports managing books, users, loans, fines, authentication, and notifications while applying software design patterns and code quality practices.
+The system enables managing books, users, loans, fines, authentication, and notifications while applying design patterns and code quality techniques.
 
 ## Features
 
@@ -26,7 +26,8 @@ The system supports managing books, users, loans, fines, authentication, and not
 - Observer Pattern
 - Strategy Pattern
 - Refactoring
-- SonarCloud Static Analysis
+- Static Code Analysis (SonarCloud)
+- Unit Testing
 - JaCoCo Code Coverage
 - UML Design
 
@@ -35,14 +36,13 @@ The system supports managing books, users, loans, fines, authentication, and not
 - Java
 - Maven
 - JUnit
-- Git
-- GitHub
+- Git & GitHub
 - SonarCloud
 - JaCoCo
 
 ## Project Structure
 
-```
+```text
 src
 ├── model
 ├── repository
@@ -54,16 +54,17 @@ src
 
 ## How to Run
 
-1. Clone the repository.
+1. Clone the repository
 
 ```bash
 git clone https://github.com/Dana-rami/Library-Management-System.git
 ```
 
-2. Open using IntelliJ IDEA.
-
-3. Build with Maven.
-
+2. Open the project using IntelliJ IDEA.
+3. Build the project with Maven.
 4. Run `Main.java`.
 
+## Course
 
+Software Engineering  
+An-Najah National University
