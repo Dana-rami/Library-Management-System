@@ -64,7 +64,3 @@ git clone https://github.com/Dana-rami/Library-Management-System.git
 3. Build the project with Maven.
 4. Run `Main.java`.
 
-## Course
-
-Software Engineering  
-An-Najah National University
