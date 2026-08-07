@@ -39,6 +39,7 @@ The system enables managing books, users, loans, fines, authentication, and noti
 - Git & GitHub
 - SonarCloud
 - JaCoCo
+- GitHub Actions
 
 ## Project Structure
 
